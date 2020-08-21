@@ -26,7 +26,7 @@
 </p>
 
 
-3. Register App
+3. Register App. For Android package name you can  open `AndroidManifest.xml` in your project
 <p align="center">
   <img src="screenshot/selection_5.png"/>
 </p>
