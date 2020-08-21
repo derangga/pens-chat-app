@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Chat App</string>
+    <string name="mail_empty">Please fill email address</string>
+    <string name="password_empty">Please fill password</string>
+    <string name="invalid_email">Invalid email format</string>
+    <string name="invalid_password">Password minimum 6 characters</string>
+
+    <string name="loading">Loading</string>
+    <string name="logout">Logout</string>
+</resources>
