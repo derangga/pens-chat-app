@@ -1,4 +1,6 @@
 # Simple Chat App Using Firebase
+Workshop Politeknik Elektronika Negeri Surabaya.
+Document : [workshop.ppt](https://docs.google.com/presentation/d/15TRocGqu4nJOJjoGZ4bDj0EkbX6zMUX6qisR8FgZM0E/edit?usp=sharing)
 
 ## TODO Before Code
 
